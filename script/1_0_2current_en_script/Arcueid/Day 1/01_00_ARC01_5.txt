@@ -21,7 +21,7 @@ The door locks tightly behind me with a clunking sound.
 <Page8>
 After passing through the main gate, a gently sloping path leads deeper into the forest.
 Surrounded by tall trees, the path reminds me of a tunnel.
-It goes straight to the east, then after about 40 meters makes a right-angle turn to the north.
+It goes straight to the east, then after about 40 meters, makes a right-angle turn to the north.
 <Page9>
 "――――――"
 With each step, memories come flooding back, as if being colored in.
@@ -44,7 +44,7 @@ I remember at the annual family reunion, several adults would try to get my fath
 <Page15>
 They were probably successful businessmen with their own mansions, but for some reason, they were obsessed with living here.
 For them, living in this land must have been very prestigious.
-...Really, how ridiculous. I'm not familiar with the values of the upper class, so for me it's just a 'luxurious mansion'.
+...Really, how ridiculous. I'm not familiar with the values of the upper class, so for me, it's just a 'luxurious mansion'.
 <Page16>
 "......Alright."
 There's no turning back now that I've come this far.
@@ -69,7 +69,7 @@ Still, I'm in the familiar lobby of the Tohno residence.
 <Page23>
 As I stand there, a girl in anachronistic clothing greets me.
 <Page24>
-"Thank goodness. I was worried that you might be lost since you were so late.
+"Thank goodness. I was worried you might have gotten lost since you were not here yet.//「よかった。あんまりにも遅いものですから、お迷いになられているのではと心配していたんですよ。
 If you had not made it here before sundown, I would have come to get you."
 The girl wearing a kimono and an apron says with a gentle smile.
 <Page25>
