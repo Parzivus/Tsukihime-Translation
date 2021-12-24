@@ -15,6 +15,7 @@ BRIT_TO_YANK = {
     'favourable': 'favorable',
     'favour': 'favor',
     'towards': 'toward',
+    'leaped': 'leapt',  # Exception since leaped looks dumb to at least 3 editors
 }
 
 def process_file(filename):

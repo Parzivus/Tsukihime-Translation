@@ -69,7 +69,7 @@ Still, I'm in the familiar lobby of the Tohno residence.
 <Page23>
 As I stand there, a girl in anachronistic clothing greets me.
 <Page24>
-"Thank goodness. I was worried you might have gotten lost since you were not here yet.//「よかった。あんまりにも遅いものですから、お迷いになられているのではと心配していたんですよ。
+"Thank goodness. It was getting quite late, and so I was starting to worry that you might have gotten lost.//よかった。あんまりにも遅いものですから、お迷いになられているのではと心配していたんですよ。
 If you had not made it here before sundown, I would have come to get you."
 The girl wearing a kimono and an apron says with a gentle smile.
 <Page25>
